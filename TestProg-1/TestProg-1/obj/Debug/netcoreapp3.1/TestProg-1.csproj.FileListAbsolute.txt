@@ -1,0 +1,13 @@
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\bin\Debug\netcoreapp3.1\TestProg-1.exe
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\bin\Debug\netcoreapp3.1\TestProg-1.deps.json
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\bin\Debug\netcoreapp3.1\TestProg-1.runtimeconfig.json
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\bin\Debug\netcoreapp3.1\TestProg-1.runtimeconfig.dev.json
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\bin\Debug\netcoreapp3.1\TestProg-1.dll
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\bin\Debug\netcoreapp3.1\TestProg-1.pdb
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\obj\Debug\netcoreapp3.1\TestProg-1.csprojAssemblyReference.cache
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\obj\Debug\netcoreapp3.1\TestProg-1.AssemblyInfoInputs.cache
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\obj\Debug\netcoreapp3.1\TestProg-1.AssemblyInfo.cs
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\obj\Debug\netcoreapp3.1\TestProg-1.csproj.CoreCompileInputs.cache
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\obj\Debug\netcoreapp3.1\TestProg-1.dll
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\obj\Debug\netcoreapp3.1\TestProg-1.pdb
+C:\Users\Leonard\source\repos\TestProg-1\TestProg-1\obj\Debug\netcoreapp3.1\TestProg-1.genruntimeconfig.cache
