@@ -11,7 +11,10 @@ namespace TestProg_1.Main
         
         static void Main(string[] args) 
         {
-            int LessonNum = 1;
+            /*
+             * int LessonNum = 1;
+            
+             
             Console.Write("Номер урока: ");
             LessonNum=Convert.ToInt32(Console.ReadLine());
          
@@ -22,15 +25,14 @@ namespace TestProg_1.Main
                     Lesson1.Less01.Les();
                     break;
                 case 2:
-                    
                     Lesson2.Less02.Les();
-                    
-                   
-                    
-                    
-                    
                     break;
-            }
+                case 3:
+                    Lesson3.Less03.Les();
+                    break;
+            }*/
+            //Lesson3.Less03.Les();
+            Lesson4.Less04.Les();
         }
         
 
