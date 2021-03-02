@@ -32,7 +32,12 @@ namespace TestProg_1.Main
                     break;
             }*/
             //Lesson3.Less03.Les();
-            Lesson4.Less04.Les();
+            //Lesson4.Less04.Les();
+            //Battleships.btl.test();
+
+            Lesson5.Less05.Work1();
+            Lesson5.Less05.Work2();
+            Lesson5.Less05.Work3();
         }
         
 
