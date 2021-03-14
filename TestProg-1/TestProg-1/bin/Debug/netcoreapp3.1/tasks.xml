@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfToDo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToDo>
+    <Title>Первая задача</Title>
+    <IsDone />
+  </ToDo>
+  <ToDo>
+    <Title>Вторая задача</Title>
+    <IsDone />
+  </ToDo>
+  <ToDo>
+    <Title>Третья задача</Title>
+    <IsDone />
+  </ToDo>
+  <ToDo>
+    <Title>Четвертая задача</Title>
+    <IsDone>x</IsDone>
+  </ToDo>
+  <ToDo>
+    <Title>Пятая задача</Title>
+    <IsDone />
+  </ToDo>
+</ArrayOfToDo>
