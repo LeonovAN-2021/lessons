@@ -1,0 +1,16 @@
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\bin\Debug\netcoreapp3.1\TestProg-2.exe
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\bin\Debug\netcoreapp3.1\TestProg-2.deps.json
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\bin\Debug\netcoreapp3.1\TestProg-2.runtimeconfig.json
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\bin\Debug\netcoreapp3.1\TestProg-2.runtimeconfig.dev.json
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\bin\Debug\netcoreapp3.1\TestProg-2.dll
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\bin\Debug\netcoreapp3.1\TestProg-2.pdb
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\bin\Debug\netcoreapp3.1\GreetingsLib.dll
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\bin\Debug\netcoreapp3.1\GreetingsLib.pdb
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\obj\Debug\netcoreapp3.1\TestProg-2.csprojAssemblyReference.cache
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\obj\Debug\netcoreapp3.1\TestProg-2.AssemblyInfoInputs.cache
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\obj\Debug\netcoreapp3.1\TestProg-2.AssemblyInfo.cs
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\obj\Debug\netcoreapp3.1\TestProg-2.csproj.CoreCompileInputs.cache
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\obj\Debug\netcoreapp3.1\TestProg-2.csproj.CopyComplete
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\obj\Debug\netcoreapp3.1\TestProg-2.dll
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\obj\Debug\netcoreapp3.1\TestProg-2.pdb
+C:\Users\Leonard\source\repos\TestProg-2\TestProg-2\obj\Debug\netcoreapp3.1\TestProg-2.genruntimeconfig.cache
