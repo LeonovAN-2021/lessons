@@ -1,0 +1,9 @@
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\bin\Debug\netcoreapp3.1\GreetingsLib.deps.json
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\bin\Debug\netcoreapp3.1\GreetingsLib.dll
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\bin\Debug\netcoreapp3.1\GreetingsLib.pdb
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\obj\Debug\netcoreapp3.1\GreetingsLib.csprojAssemblyReference.cache
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\obj\Debug\netcoreapp3.1\GreetingsLib.AssemblyInfoInputs.cache
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\obj\Debug\netcoreapp3.1\GreetingsLib.AssemblyInfo.cs
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\obj\Debug\netcoreapp3.1\GreetingsLib.csproj.CoreCompileInputs.cache
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\obj\Debug\netcoreapp3.1\GreetingsLib.dll
+C:\Users\Leonard\source\repos\TestProg-1\GreetingsLib\obj\Debug\netcoreapp3.1\GreetingsLib.pdb

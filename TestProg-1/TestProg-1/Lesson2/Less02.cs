@@ -156,9 +156,11 @@ namespace TestProg_1.Lesson2
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine();
             Console.WriteLine("Задача 2.6. Расписание");
-            int of1 = 84; // ПнСрПт
-            int of2 = 42; // ВтЧтСб
-            
+            int of1 = 84; // ПнСрПт 1010100  
+            int of2 = 42; // ВтЧтСб 0101000
+                          //        1111100
+                          
+
             Console.WriteLine("ПВСЧПСВ");
             Console.WriteLine(Convert.ToString(of1, 2).PadLeft(7, '0')+" - Первый офис работает по понедельникам, средам и пятницам");
             Console.WriteLine(Convert.ToString(of2, 2).PadLeft(7, '0') + " - Второй офис работает по вторникам, четвергам и субботам");
